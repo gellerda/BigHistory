@@ -18,8 +18,8 @@ dofile("c:\\lua\\system.lua"); -- Разные универсальные фун
 dofile("c:\\lua\\stdquik.lua"); -- Разные универсальные функции не имеющие отношения к Квику.
 dofile("c:\\lua\\stdorders.lua"); -- Разные универсальные функции не имеющие отношения к Квику.
 dofile("c:\\lua\\my_math.lua"); -- 
-dofile("c:\\LuaRepository\\bigHistory_GUI.lua"); -- 
-dofile("c:\\LuaRepository\\bigHistory_say.lua"); -- 
+dofile("c:\\lua\\BigHistory\\bigHistory_GUI.lua"); -- 
+dofile("c:\\lua\\BigHistory\\bigHistory_say.lua"); -- 
 --========================================================================================
 is_run=true;
 isDaySessionFinished=false;
